@@ -48,7 +48,7 @@ AGAIN_STATEMENTS = ['lets_start']
 
 
 app = Flask(__name__)
-app.config['ASK_VERIFY_REQUESTS'] = False
+#app.config['ASK_VERIFY_REQUESTS'] = False
 
 ask = Ask(app, "/")
 logging.getLogger("flask_ask").setLevel(logging.DEBUG)
@@ -81,19 +81,27 @@ def launch():
     return question(welcome_msg)
 
 
+@ask.intent('AMAZON.CancelIntent')
+@ask.intent('AMAZON.StopIntent')
+def cancel():
+	return statement('')
+
+
 @ask.intent('FlagDescriptionIntent')
 def flag_description(country):
 	logger.info("Flag for country: " + str(country))
 	
 	found_country = next(
-		country_code for country_code, flag_data in FLAGS_DATA.items()
-			if any(country_name.lower() == country.lower() for country_name in flag_data['country_names'])
+		(country_code for country_code, flag_data in FLAGS_DATA.items()
+			if any(country_name.lower() == country.lower() for country_name in flag_data['country_names'])),
+		None
 		)
 
 	if found_country is None:
 		country_not_found_msg = render_template('country_not_found', country=country)
 		return question(country_not_found_msg)
 	
+	flag_design = FLAGS_DATA[found_country]['flag_design']
 	flag_country_description_msg = render_template('flag_country_description', country=country, flag_design=flag_design)
 	return question(flag_country_description_msg)
 

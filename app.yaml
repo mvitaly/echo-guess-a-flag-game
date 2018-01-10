@@ -5,3 +5,7 @@ threadsafe: true
 handlers:
 - url: /.*
   script: guess_a_flag.app
+
+libraries:
+- name: pycrypto
+  version: "2.6.1"
