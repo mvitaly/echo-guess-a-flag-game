@@ -1,0 +1,1226 @@
+{
+    "China": {
+        "flag_design": "A large golden star within an arc of four smaller golden stars, in the canton, on a field of red.",
+        "country_names": [
+            "China"
+        ]
+    },
+    "India": {
+        "flag_design": "A horizontal triband of India saffron, white, and India green; charged with a navy blue wheel with 24 spokes in the centre",
+        "country_names": [
+            "India"
+        ]
+    },
+    "Kosovo": {
+        "flag_design": "A blue field charged with a map of Kosovo in gold, surmounted by an arc of six, white five-pointed stars, in the centre",
+        "country_names": [
+            "Kosovo"
+        ]
+    },
+    "Eritrea": {
+        "flag_design": "a red isosceles triangle based on the hoist-side pointed toward the fly-side and then divided into two right triangles: the upper triangle is green and the lower triangle is blue with an Emblem (1952-1962) in gold (a vertical olive branch encircled by an olive wreath) centered on the hoist side of the triangle",
+        "country_names": [
+            "Eritrea"
+        ]
+    },
+    "Republic of the Congo": {
+        "flag_design": "A diagonal tricolour of green, yellow and red radiating from the lower hoist side corner",
+        "country_names": [
+            "Republic of the Congo"
+        ]
+    },
+    "Swaziland": {
+        "flag_design": "A horizontal triband of blue (top and bottom) and the yellow-edged red (triple width) with the large black and white Nguni shield covering two spears and the staff decorated with the feather tassels called ''injobo'' (tassels-bunches of feathers of the widowbird and the lourie) all centered horizontally of the red band.",
+        "country_names": [
+            "Swaziland"
+        ]
+    },
+    "Malaysia": {
+        "flag_design": "Fourteen horizontal stripes alternating red and white; in the canton, a yellow crescent and 14-point star on a blue field",
+        "country_names": [
+            "Malaysia"
+        ]
+    },
+    "Tunisia": {
+        "flag_design": "A red field with a centered white sun-disc containing a red five-pointed star surrounded by a red crescent",
+        "country_names": [
+            "Tunisia"
+        ]
+    },
+    "Sweden": {
+        "flag_design": "A blue field with a yellow Scandinavian cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side. Dimensions: 5:2:9 horizontally and 4:2:4 vertically.",
+        "country_names": [
+            "Sweden"
+        ]
+    },
+    "Honduras": {
+        "flag_design": "A horizontal triband of blue (top and bottom) and white with five blue five-pointed stars arranged in an X pattern centered on the white band.",
+        "country_names": [
+            "Honduras"
+        ]
+    },
+    "Algeria": {
+        "flag_design": "A vertical bicolor of green and white with the red crescent encircling the red five-pointed star centered along the dividing line.",
+        "country_names": [
+            "Algeria"
+        ]
+    },
+    "Benin": {
+        "flag_design": "A horizontal bicolor of yellow and red with a green vertical band at the hoist.",
+        "country_names": [
+            "Benin"
+        ]
+    },
+    "Guinea": {
+        "flag_design": "A vertical tricolour of red, yellow and green",
+        "country_names": [
+            "Guinea"
+        ]
+    },
+    "Dominica": {
+        "flag_design": "A green field with the centred cross of three bands: the vertical part is: yellow, black and white and the horizontal part is: yellow, black and white and the red disk superimposed at the centre of the cross bearing a purple Sisserou Parrot facing the hoist-side encircled by ten green five-pointed stars.",
+        "country_names": [
+            "Dominica"
+        ]
+    },
+    "Ivory Coast": {
+        "flag_design": "A vertical tricolour of orange, white, and green.",
+        "country_names": [
+            "Ivory Coast"
+        ]
+    },
+    "Morocco": {
+        "flag_design": "A red field with the green pentagram, a five-pointed linear star.",
+        "country_names": [
+            "Morocco"
+        ]
+    },
+    "United States": {
+        "flag_design": "Thirteen horizontal stripes alternating red and white; in the canton, 50 white stars of alternating numbers of six and five per horizontal row on a blue field",
+        "country_names": [
+            "United States"
+        ]
+    },
+    "Brunei": {
+        "flag_design": "A centered red crest of Brunei on a yellow field cut by black and white diagonal stripes (parallelograms).",
+        "country_names": [
+            "Brunei"
+        ]
+    },
+    "Latvia": {
+        "flag_design": "A carmine field bisected by a narrow white stripe (one-fifth the width of the flag)",
+        "country_names": [
+            "Latvia"
+        ]
+    },
+    "Ireland": {
+        "flag_design": "A vertical tricolour of green, white and orange",
+        "country_names": [
+            "Ireland"
+        ]
+    },
+    "Iceland": {
+        "flag_design": "A blue field with the white-edged red Nordic cross extends to the edges of the flag and the vertical part of the cross is shifted to the hoist-side. In Blazon, \"Azure, a cross gules fimbriated argent\".",
+        "country_names": [
+            "Iceland"
+        ]
+    },
+    "East Timor": {
+        "flag_design": "A red field with the black isosceles triangle based on the hoist-side bearing a white five-pointed star in the center superimposed on the larger yellow triangle, also based on the hoist-side, that extends to the center of the flag.",
+        "country_names": [
+            "East Timor"
+        ]
+    },
+    "Papua New Guinea": {
+        "flag_design": "Divided diagonally from the upper hoist-side corner to the lower fly-side corner: the upper triangle is red with the soaring Raggiana Bird of Paradise and the lower triangle is black with the Southern Cross of four white larger five-pointed stars and the smaller star.",
+        "country_names": [
+            "Papua New Guinea"
+        ]
+    },
+    "Sudan": {
+        "flag_design": "A horizontal tricolour of red, white, and black; with a green triangle based at the hoist.",
+        "country_names": [
+            "Sudan"
+        ]
+    },
+    "Italy": {
+        "flag_design": "A vertical tricolour of green, white and red",
+        "country_names": [
+            "Italy"
+        ]
+    },
+    "Bahrain": {
+        "flag_design": "A white field on the hoist side separated from a larger red field on the fly by five white triangles in the form of a zigzag pattern",
+        "country_names": [
+            "Bahrain"
+        ]
+    },
+    "Armenia": {
+        "flag_design": "A horizontal tricolour of red, blue, and orange",
+        "country_names": [
+            "Armenia"
+        ]
+    },
+    "Indonesia": {
+        "flag_design": "A horizontal bicolour of red and white",
+        "country_names": [
+            "Indonesia"
+        ]
+    },
+    "Albania": {
+        "flag_design": "A red field with the black double-headed eagle in the center.",
+        "country_names": [
+            "Albania"
+        ]
+    },
+    "Paraguay": {
+        "flag_design": "An horizontal triband of red, white and blue, defaced on the obverse with the coat of arms of Paraguay, and on the reverse by the reverse side of the arms",
+        "country_names": [
+            "Paraguay"
+        ]
+    },
+    "Nauru": {
+        "flag_design": "A blue field with the thin yellow narrow horizontal stripe across in the center and the large white twelve-pointed star on the bottom of the stripe and near the hoist-side.",
+        "country_names": [
+            "Nauru"
+        ]
+    },
+    "Haiti": {
+        "flag_design": "A horizontal bicolour of blue and red, charged with the Coat of Arms in a small white box in the center.",
+        "country_names": [
+            "Haiti"
+        ]
+    },
+    "Guinea-Bissau": {
+        "flag_design": "One vertical red line on the hoist side charged with a black five-pointed star; two horizontal lines on the fly side (yellow and green)",
+        "country_names": [
+            "Guinea-Bissau"
+        ]
+    },
+    "Tanzania": {
+        "flag_design": "A yellow-edged black diagonal band divided diagonally from the lower hoist-side corner: the upper triangle is green and the lower triangle is blue.",
+        "country_names": [
+            "Tanzania"
+        ]
+    },
+    "Canada": {
+        "flag_design": "A vertical triband of red (hoist-side and fly-side) and white (double width) with the red maple leaf centred on the white band.",
+        "country_names": [
+            "Canada"
+        ]
+    },
+    "Greece": {
+        "flag_design": "Nine horizontal stripes, in turn blue and white; a white cross on a blue square field in canton.",
+        "country_names": [
+            "Greece"
+        ]
+    },
+    "Costa Rica": {
+        "flag_design": "Five horizontal bands of blue, white, red (double width), white and blue with the white elliptical disk placed toward the hoist-side of the red band bearing the National Coat of Arms.",
+        "country_names": [
+            "Costa Rica"
+        ]
+    },
+    "Nigeria": {
+        "flag_design": "A vertical bicolour triband of green, white and green",
+        "country_names": [
+            "Nigeria"
+        ]
+    },
+    "Burundi": {
+        "flag_design": "A white diagonal cross divided into four panels of red (top and bottom) and green (hoist-side and fly-side) with the white disk superimposed at the center of the cross bearing three red six-pointed stars with green outlines arranged in the triangular form (one above, two below).",
+        "country_names": [
+            "Burundi"
+        ]
+    },
+    "Vietnam": {
+        "flag_design": "A large yellow star centered on a red field.",
+        "country_names": [
+            "Vietnam"
+        ]
+    },
+    "Finland": {
+        "flag_design": "Sea-blue Nordic cross on white field",
+        "country_names": [
+            "Finland"
+        ]
+    },
+    "Gabon": {
+        "flag_design": "A horizontal triband of green, gold and blue",
+        "country_names": [
+            "Gabon"
+        ]
+    },
+    "Djibouti": {
+        "flag_design": "A horizontal bi-color of light blue and light green, with a white isosceles triangle at the hoist bearing a red star in its center.",
+        "country_names": [
+            "Djibouti"
+        ]
+    },
+    "Fiji": {
+        "flag_design": "A Light Blue Ensign with the Fijian shield-of-arms taken from the National Coat of Arms centred on the outer half of the flag.",
+        "country_names": [
+            "Fiji"
+        ]
+    },
+    "Marshall Islands": {
+        "flag_design": "A blue field with two diagonal stripes of orange and white radiating from the lower hoist-side corner to the upper fly-side corner and the large white star with four large rays and twenty small rays on the upper hoist-side corner above the stripes.",
+        "country_names": [
+            "Marshall Islands"
+        ]
+    },
+    "Thailand": {
+        "flag_design": "Five horizontal stripes of red, white, blue, white and red, the middle stripe twice as wide as the others",
+        "country_names": [
+            "Thailand"
+        ]
+    },
+    "Saint Vincent and the Grenadines": {
+        "flag_design": "NO INFOBOX",
+        "country_names": [
+            "Saint Vincent and the Grenadines"
+        ]
+    },
+    "Philippines": {
+        "flag_design": "A horizontal bicolour of blue and red; with a white equilateral triangle based at the hoist containing three, 5-pointed gold stars at its vertices, and an 8-rayed gold sun at its center.",
+        "country_names": [
+            "Philippines"
+        ]
+    },
+    "South Sudan": {
+        "flag_design": "A horizontal tricolour of black, red, and green, fimbriated with white stripes; with a blue equilateral triangle based on the hoist side bearing a gold star",
+        "country_names": [
+            "South Sudan"
+        ]
+    },
+    "Sahrawi Arab Democratic Republic": {
+        "flag_design": "A black, white, and green horizontal tricolor charged with a red star and crescent in the center stripe and a red triangle at the hoist",
+        "country_names": [
+            "Sahrawi Arab Democratic Republic"
+        ]
+    },
+    "Samoa": {
+        "flag_design": "A red field with the blue rectangle on the upper hoist-side quadrant bearing the Southern Cross of four white larger five-pointed stars and the smaller star in the center.",
+        "country_names": [
+            "Samoa"
+        ]
+    },
+    "Niue": {
+        "flag_design": "A golden yellow flag, bearing on the upper canton of the hoist thereof the Union Flag, commonly known as the Union Jack, displaying 2 five-pointed yellow stars on the vertical line and on the horizontal line thereof separated by a blue disc containing a larger five-pointed yellow star.",
+        "country_names": [
+            "Niue"
+        ]
+    },
+    "Ecuador": {
+        "flag_design": "A horizontal tricolor of yellow (double width), blue and red with the National Coat of Arms superimposed at the center.",
+        "country_names": [
+            "Ecuador"
+        ]
+    },
+    "United Kingdom": {
+        "flag_design": "A white-fimbriated symmetric red cross on a blue field with a white-fimbriated counterchanged saltire of red and white.",
+        "country_names": [
+            "United Kingdom"
+        ]
+    },
+    "Bolivia": {
+        "flag_design": "A horizontal tricolor of red, yellow and green with the national coat of arms centered on the yellow band.",
+        "country_names": [
+            "Bolivia"
+        ]
+    },
+    "Vatican City": {
+        "flag_design": "A vertical bicolour of gold and white; charged with the Coats of arms of the Vatican City centred.",
+        "country_names": [
+            "Vatican City"
+        ]
+    },
+    "Turkey": {
+        "flag_design": "A red field with a white star and crescent slightly left of center.",
+        "country_names": [
+            "Turkey"
+        ]
+    },
+    "Cambodia": {
+        "flag_design": "Three horizontal bands of blue, red (double width) and blue, with a depiction of Angkor Wat in white centred on the red band.",
+        "country_names": [
+            "Cambodia"
+        ]
+    },
+    "Kyrgyzstan": {
+        "flag_design": "A red field charged with a yellow sun with forty uniformly spaced rays; the sun is crossed by two sets of three lines",
+        "country_names": [
+            "Kyrgyzstan"
+        ]
+    },
+    "Kazakhstan": {
+        "flag_design": "A gold sun with 32 rays above a soaring golden steppe eagle, both centered on a sky blue field. The hoist side displays a national ornamental pattern \"koshkar-muiz\" (the horns of the ram) in gold",
+        "country_names": [
+            "Kazakhstan"
+        ]
+    },
+    "Cuba": {
+        "flag_design": "Five horizontal stripes of blue alternate with white with the red equilateral triangle based on the hoist-side bearing the white five-pointed star in the center.",
+        "country_names": [
+            "Cuba"
+        ]
+    },
+    "Burkina Faso": {
+        "flag_design": "Two horizontal bands of red and green with the yellow five-pointed star in the center.",
+        "country_names": [
+            "Burkina Faso"
+        ]
+    },
+    "San Marino": {
+        "flag_design": "A horizontal bicolour of white and light blue; charged with the Coat of arms in the centre",
+        "country_names": [
+            "San Marino"
+        ]
+    },
+    "Trinidad and Tobago": {
+        "flag_design": "A red field with a white-edged black diagonal band from the upper hoist-side to the lower fly-side.",
+        "country_names": [
+            "Trinidad and Tobago"
+        ]
+    },
+    "Nicaragua": {
+        "flag_design": "A horizontal triband of blue (top and bottom) and white with the National Coat of Arms centered on the white band.",
+        "country_names": [
+            "Nicaragua"
+        ]
+    },
+    "Federated States of Micronesia": {
+        "flag_design": "A light blue field with four white five-pointed stars arranged in the diamond pattern in the center.",
+        "country_names": [
+            "Federated States of Micronesia"
+        ]
+    },
+    "Bosnia and Herzegovina": {
+        "flag_design": "A wide medium blue vertical band on the fly side with a yellow right triangle abutting the band and the top of the flag; the remainder of the flag is medium blue with seven full five-pointed white stars and two half stars top and bottom along the hypotenuse of the triangle.",
+        "country_names": [
+            "Bosnia and Herzegovina"
+        ]
+    },
+    "Sri Lanka": {
+        "flag_design": "A yellow field with two panels: the smaller hoist-side panel has only two vertical bands of green and saffron and the larger fly-side panel is the maroon field depicting the golden lion holding the kastane sword in its right fore paw in the center and four bo leaves on each corner and the yellow field appears as a border around the entire flag and extends in between the two panels, all bordering together.",
+        "country_names": [
+            "Sri Lanka"
+        ]
+    },
+    "Tonga": {
+        "flag_design": "A red field with the white rectangle on the upper hoist-side corner bearing the red Greek Cross in the centre.",
+        "country_names": [
+            "Tonga"
+        ]
+    },
+    "Guatemala": {
+        "flag_design": "A vertical triband of light blue (hoist-side and fly-side) and white with the National Emblem centered on the white band.",
+        "country_names": [
+            "Guatemala"
+        ]
+    },
+    "United Arab Emirates": {
+        "flag_design": "A horizontal tricolour of green, white and black with a vertical one forth width red bar at the hoist",
+        "country_names": [
+            "United Arab Emirates"
+        ]
+    },
+    "Malawi": {
+        "flag_design": "A horizontal triband of black, red, and green; charged with a red rising sun centred on the black stripe",
+        "country_names": [
+            "Malawi"
+        ]
+    },
+    "Sao Tome and Principe": {
+        "flag_design": "A horizontal tricolour of green, yellow and green; with a red triangle based at the hoist and two black five-pointed stars in the yellow stripe",
+        "country_names": [
+            "Sao Tome and Principe"
+        ]
+    },
+    "Nepal": {
+        "flag_design": "A combination of two red pennons (pennants) with the large blue border around the unique shape of two overlapping right triangles: the smaller upper triangle bears the white stylized moon (the rising sun on the horizontal crescent moon) and the larger lower triangle displays the white twelve-pointed sun.",
+        "country_names": [
+            "Nepal"
+        ]
+    },
+    "Uzbekistan": {
+        "flag_design": "A horizontal blue, white and green stripes, separated by two narrow red stripes. A crescent and three rows of twelve stars are situated on the left side of the upper blue stripe.",
+        "country_names": [
+            "Uzbekistan"
+        ]
+    },
+    "New Zealand": {
+        "flag_design": "A Blue Ensign with the Southern Cross of four white-edged red five-pointed stars centered on the outer half of the flag.",
+        "country_names": [
+            "New Zealand"
+        ]
+    },
+    "Democratic Republic of the Congo": {
+        "flag_design": "Sky blue flag, adorned with a yellow star in the upper left canton and cut diagonally by a red stripe with a thin yellow frame.",
+        "country_names": [
+            "Democratic Republic of the Congo"
+        ]
+    },
+    "Serbia": {
+        "flag_design": "A horizontal tricolour of red, blue, and white; charged with the lesser Coat of arms left of centre",
+        "country_names": [
+            "Serbia"
+        ]
+    },
+    "Estonia": {
+        "flag_design": "A horizontal triband of blue, black and white",
+        "country_names": [
+            "Estonia"
+        ]
+    },
+    "Slovenia": {
+        "flag_design": "A horizontal tricolour of white, blue, and red; charged with the Coat of arms at the hoist side",
+        "country_names": [
+            "Slovenia"
+        ]
+    },
+    "Zambia": {
+        "flag_design": "A green field with an orange coloured eagle in flight over a rectangular block of three vertical stripes coloured from left to right in red, black and orange",
+        "country_names": [
+            "Zambia"
+        ]
+    },
+    "Australia": {
+        "flag_design": "A Blue Ensign defaced with the Commonwealth Star (also known as the Federation Star) in the lower hoist quarter and the five stars of the Southern Cross in the fly half.",
+        "country_names": [
+            "Australia"
+        ]
+    },
+    "Niger": {
+        "flag_design": "A horizontal triband of orange, white and green; charged with an orange circle in the centre",
+        "country_names": [
+            "Niger"
+        ]
+    },
+    "Germany": {
+        "flag_design": "A horizontal tricolour of black, red, and gold.",
+        "country_names": [
+            "Germany"
+        ]
+    },
+    "Bahamas": {
+        "flag_design": "A horizontal triband of aquamarine (top and bottom) and gold with the black equilateral triangle based on the hoist-side.",
+        "country_names": [
+            "Bahamas"
+        ]
+    },
+    "Romania": {
+        "flag_design": "A vertical tricolor of blue, yellow, and red",
+        "country_names": [
+            "Romania"
+        ]
+    },
+    "Macedonia": {
+        "flag_design": "A stylised yellow sun on a red field, with eight broadening rays extending from the centre to the edge of the field.",
+        "country_names": [
+            "Macedonia"
+        ]
+    },
+    "Norway": {
+        "flag_design": "A white-fimbriated blue Nordic cross on a red field",
+        "country_names": [
+            "Norway"
+        ]
+    },
+    "North Korea": {
+        "flag_design": "A wide red stripe at the center, bordered by a narrow white stripe both above and below, followed by a blue stripe. The central red stripe carries a five-pointed red star within a white circle near the hoist.",
+        "country_names": [
+            "North Korea"
+        ]
+    },
+    "Malta": {
+        "flag_design": "A vertical bicolor of white and red with the representation of the George Cross edged in red on the upper hoist-side corner of the white band.",
+        "country_names": [
+            "Malta"
+        ]
+    },
+    "Belarus": {
+        "flag_design": "A horizontal bicolor of red over green in a 2:1 ratio, with a red ornamental pattern on a white vertical stripe at the hoist.",
+        "country_names": [
+            "Belarus"
+        ]
+    },
+    "Uruguay": {
+        "flag_design": "Nine horizontal stripes of white alternate with blue with the white square on the upper hoist-side corner bearing the Sun of May in the center.",
+        "country_names": [
+            "Uruguay"
+        ]
+    },
+    "Slovakia": {
+        "flag_design": "A horizontal tricolor of white, blue and red; charged with a shield containing a white cross is placed to left of center",
+        "country_names": [
+            "Slovakia"
+        ]
+    },
+    "Andorra": {
+        "flag_design": "A vertical tricolor of blue, yellow and red with the National Coat of Arms centered on the yellow band.",
+        "country_names": [
+            "Andorra"
+        ]
+    },
+    "Cook Islands": {
+        "flag_design": "Blue ensign with a ring of fifteen white stars in the fly.",
+        "country_names": [
+            "Cook Islands"
+        ]
+    },
+    "Egypt": {
+        "flag_design": "Horizontally divided red-white-black flag with the Eagle of Saladin.",
+        "country_names": [
+            "Egypt"
+        ]
+    },
+    "Palau": {
+        "flag_design": "A light blue field with the large yellow disk shifted slightly to the hoist-side of center.",
+        "country_names": [
+            "Palau"
+        ]
+    },
+    "South Ossetia": {
+        "flag_design": "NO INFOBOX",
+        "country_names": [
+            "South Ossetia"
+        ]
+    },
+    "Austria": {
+        "flag_design": "A horizontal triband of red (top and bottom) and white.",
+        "country_names": [
+            "Austria"
+        ]
+    },
+    "Solomon Islands": {
+        "flag_design": "A thin yellow narrow diagonal stripe divided diagonally from the lower hoist-side corner to the upper fly-side corner: the upper triangle is blue with five white five-pointed stars arranged in an X pattern and the lower triangle is green",
+        "country_names": [
+            "Solomon Islands"
+        ]
+    },
+    "Cyprus": {
+        "flag_design": "An outline of the country of Cyprus above twin olive branches on a white field",
+        "country_names": [
+            "Cyprus"
+        ]
+    },
+    "Moldova": {
+        "flag_design": "A vertical tricolour of blue, yellow and red; charged with the Coat of Arms centered on the yellow band.",
+        "country_names": [
+            "Moldova"
+        ]
+    },
+    "Seychelles": {
+        "flag_design": "five oblique bands of blue, yellow, red, white and green radiating from the bottom of the hoist side.",
+        "country_names": [
+            "Seychelles"
+        ]
+    },
+    "Belgium": {
+        "flag_design": "A vertical tricolour of black, yellow, and red.",
+        "country_names": [
+            "Belgium"
+        ]
+    },
+    "Bangladesh": {
+        "flag_design": "A red disc on a green field.",
+        "country_names": [
+            "Bangladesh"
+        ]
+    },
+    "Somalia": {
+        "flag_design": "A single white five-pointed star centered on a light blue field.",
+        "country_names": [
+            "Somalia"
+        ]
+    },
+    "Lebanon": {
+        "flag_design": "A horizontal triband of red, white (double height) and red; charged with a green Lebanon Cedar.",
+        "country_names": [
+            "Lebanon"
+        ]
+    },
+    "Qatar": {
+        "flag_design": "A white band on the hoist side, separated from a maroon area on the fly side by nine white triangles which act as a serrated line",
+        "country_names": [
+            "Qatar"
+        ]
+    },
+    "Transnistria": {
+        "flag_design": "Three horizontal bands of red, green and red, with a hammer and sickle in the canton. Identical to the flag of the Moldavian SSR",
+        "country_names": [
+            "Transnistria"
+        ]
+    },
+    "Belize": {
+        "flag_design": "A royal blue field with two red narrow horizontal stripes along the top and the bottom edges and the large white disk in the centre bearing the National Coat of Arms.",
+        "country_names": [
+            "Belize"
+        ]
+    },
+    "Mauritius": {
+        "flag_design": "Four horizontal bands of red, blue, yellow and green.",
+        "country_names": [
+            "Mauritius"
+        ]
+    },
+    "Maldives": {
+        "flag_design": "A green rectangle centred on a red field; charged with a white crescent facing the fly side",
+        "country_names": [
+            "Maldives"
+        ]
+    },
+    "Uganda": {
+        "flag_design": "Six equal horizontal bands of black (top), yellow, red, black, yellow, and red (bottom); a white disc is superimposed at the centre and depicts the national symbol, a grey crowned crane, facing the hoist side.",
+        "country_names": [
+            "Uganda"
+        ]
+    },
+    "Dominican Republic": {
+        "flag_design": "A white cross with the national coat of arms in the centre that divides the flag into four rectangles, blue and red at the top and red and blue at the bottom",
+        "country_names": [
+            "Dominican Republic"
+        ]
+    },
+    "Tajikistan": {
+        "flag_design": "A horizontal tricolor of red, white and green; charged with a crown surmounted by an arc of seven stars at the center",
+        "country_names": [
+            "Tajikistan"
+        ]
+    },
+    "Angola": {
+        "flag_design": "Two horizontal bands of red and black with the Machete and Gear Emblem in the center.",
+        "country_names": [
+            "Angola"
+        ]
+    },
+    "Saint Kitts and Nevis": {
+        "flag_design": "A yellow-edged black diagonal band bearing two white five-pointed stars divided diagonally from the lower hoist-side corner to the upper fly-side corner: the upper triangle is green and the lower triangle is red.",
+        "country_names": [
+            "Saint Kitts and Nevis"
+        ]
+    },
+    "Peru": {
+        "flag_design": "A vertical triband of red (hoist-side and fly-side) and white with the National Coat of Arms centered on the white band.",
+        "country_names": [
+            "Peru"
+        ]
+    },
+    "Oman": {
+        "flag_design": "A horizontal tricolor of white, red and green; with a vertical red stripe at the hoist, charged with the National emblem of Oman",
+        "country_names": [
+            "Oman"
+        ]
+    },
+    "Czech Republic": {
+        "flag_design": "Two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side.",
+        "country_names": [
+            "Czech Republic"
+        ]
+    },
+    "Ghana": {
+        "flag_design": "A horizontal triband of red, gold, and green, charged with a black star in the centre",
+        "country_names": [
+            "Ghana"
+        ]
+    },
+    "Mozambique": {
+        "flag_design": "A horizontal tricolor of green, white-edged black and yellow with the red isosceles triangle based on the hoist-side bearing the yellow five-pointed star that bears an AK-47 assault rifle with the bayonet attached to the barrel crossed by the hoe superimposed on an open book.",
+        "country_names": [
+            "Mozambique"
+        ]
+    },
+    "Vanuatu": {
+        "flag_design": "A horizontal bicolor of red and green with the black isosceles triangle based on the hoist side bearing the golden boar's tusk encircling two crossed namele fern fronds in the center and the golden pall, a thin yellow narrow horizontal stripe that splits in the shape of the horizontal Y, centered over the partition lines and was edged in black against the red and the green bands while the two points of the Y faces on each corner and encloses the triangle on the hoist-side.",
+        "country_names": [
+            "Vanuatu"
+        ]
+    },
+    "Lesotho": {
+        "flag_design": "A horizontal triband of blue, white and green; charged with a black mokorotlo (a Basotho hat) centred on the white band.",
+        "country_names": [
+            "Lesotho"
+        ]
+    },
+    "Hungary": {
+        "flag_design": "A horizontal triband of red, white and green<br />",
+        "country_names": [
+            "Hungary"
+        ]
+    },
+    "Spain": {
+        "flag_design": "A horizontal tricolour of red, yellow (double width) and red; charged with the Spanish coat of arms off-centred toward the hoist.",
+        "country_names": [
+            "Spain"
+        ]
+    },
+    "Kenya": {
+        "flag_design": "A horizontal tricolour of black, white-edged red, and green with two crossed white spears behind a red, white, and black Maasai shield.",
+        "country_names": [
+            "Kenya"
+        ]
+    },
+    "France": {
+        "flag_design": "A vertical tricolour of blue, white, and red",
+        "country_names": [
+            "France"
+        ]
+    },
+    "Chad": {
+        "flag_design": "A vertical tricolor of blue, gold, and red.",
+        "country_names": [
+            "Chad"
+        ]
+    },
+    "Myanmar": {
+        "flag_design": "A horizontal triband of yellow, green and red; charged with a large white five-pointed star at the centre.",
+        "country_names": [
+            "Myanmar"
+        ]
+    },
+    "Japan": {
+        "flag_design": "A crimson red-disc centered on a white rectangular field",
+        "country_names": [
+            "Japan"
+        ]
+    },
+    "Sierra Leone": {
+        "flag_design": "A horizontal tricolour of light green, white and light blue",
+        "country_names": [
+            "Sierra Leone"
+        ]
+    },
+    "Panama": {
+        "flag_design": "Divided into four rectangles: the top quadrants are: the white field on the hoist-side bearing the blue five-pointed star in the center and the red field on the fly-side and the bottom quadrants are: the blue field on the hoist-side and the white field on the fly-side bearing the red five-pointed star in the center.",
+        "country_names": [
+            "Panama"
+        ]
+    },
+    "Kiribati": {
+        "flag_design": "A horizontal bicolor of red and blue with the yellow frigate bird flying over the rising sun with seventeen rays centered on the upper half and three white wavy horizontal stripes on the lower half.",
+        "country_names": [
+            "Kiribati"
+        ]
+    },
+    "Ethiopia": {
+        "flag_design": "a horizontal tricolor of green, yellow and red with the National Emblem superimposed at the center.",
+        "country_names": [
+            "Ethiopia"
+        ]
+    },
+    "Bulgaria": {
+        "flag_design": "A horizontal tricolour of white, green and red.",
+        "country_names": [
+            "Bulgaria"
+        ]
+    },
+    "Yemen": {
+        "flag_design": "A horizontal tricolour of red, white and black",
+        "country_names": [
+            "Yemen"
+        ]
+    },
+    "El Salvador": {
+        "flag_design": "A horizontal triband of blue (top and bottom) and white with the National Coat of Arms centered on the white band.",
+        "country_names": [
+            "El Salvador"
+        ]
+    },
+    "Mexico": {
+        "flag_design": "A vertical tricolor of green, white and red with the National Coat of Arms centered on the white band.",
+        "country_names": [
+            "Mexico"
+        ]
+    },
+    "Mali": {
+        "flag_design": "A vertical tricolor of green, gold and red.",
+        "country_names": [
+            "Mali"
+        ]
+    },
+    "Jamaica": {
+        "flag_design": "A gold diagonal cross divides the field into four triangles of green (top and bottom) and black (hoist side and fly side)",
+        "country_names": [
+            "Jamaica"
+        ]
+    },
+    "Taiwan": {
+        "flag_design": "A red field with a navy blue canton bearing a white sun with 12 triangular rays.",
+        "country_names": [
+            "Taiwan"
+        ]
+    },
+    "Kuwait": {
+        "flag_design": "A horizontal triband of green, white and red; with a black trapezium based on the hoist side.",
+        "country_names": [
+            "Kuwait"
+        ]
+    },
+    "South Africa": {
+        "flag_design": "a horizontal bicolour of red and blue with a black isosceles triangle based on the hoist-side and a green pall, a central green band that splits into a horizontal Y, centred over the partition lines and was edged in both white against the red and the blue bands and gold against the triangle, in which the arms of the Y ends at the corners of the hoist and embraces the triangle on the hoist-side.",
+        "country_names": [
+            "South Africa"
+        ]
+    },
+    "Azerbaijan": {
+        "flag_design": "A horizontal tricolor of blue, red, and green, with a white crescent and an eight-pointed star centered on a red band",
+        "country_names": [
+            "Azerbaijan"
+        ]
+    },
+    "Namibia": {
+        "flag_design": "A white-edged red diagonal band radiating from the lower hoist-side corner. The upper triangle is blue, charged with a gold sun with 12 triangular rays and the lower triangle is green.",
+        "country_names": [
+            "Namibia"
+        ]
+    },
+    "Netherlands": {
+        "flag_design": "A horizontal triband of red (Bright Vermilion), white, and Cobalt blue.",
+        "country_names": [
+            "Netherlands"
+        ]
+    },
+    "Israel": {
+        "flag_design": "A blue Star of David between two horizontal blue stripes on a white field.",
+        "country_names": [
+            "Israel"
+        ]
+    },
+    "Croatia": {
+        "flag_design": "A horizontal tricolor of red, white, and blue with the Coat of Arms of Croatia in the center.",
+        "country_names": [
+            "Croatia"
+        ]
+    },
+    "Montenegro": {
+        "flag_design": "A red field surrounded by a golden border; charged with the Coat of Arms at the centre. The coat of arms in the flag occupies two thirds of its height. The width of the golden border is twenty the width of the hoist side",
+        "country_names": [
+            "Montenegro"
+        ]
+    },
+    "Ukraine": {
+        "flag_design": "A horizontal bicolour of blue and yellow",
+        "country_names": [
+            "Ukraine"
+        ]
+    },
+    "Singapore": {
+        "flag_design": "A horizontal bicolour of red and white; charged in white in the canton with a crescent facing the fly and a pentagon of five stars",
+        "country_names": [
+            "Singapore"
+        ]
+    },
+    "Grenada": {
+        "flag_design": "A large rectangle with the large red border around it with six Gold five-pointed stars with three centred on the top border and three centred on the bottom border divided into four triangles of Gold (top and bottom) and green (hoist-side and fly-side) with the red disk superimposed at the centre bearing the Gold five-pointed star and the nutmeg pod on the hoist-side of the triangle.",
+        "country_names": [
+            "Grenada"
+        ]
+    },
+    "Colombia": {
+        "flag_design": "A horizontal tricolor of yellow (double-width), blue and red.",
+        "country_names": [
+            "Colombia"
+        ]
+    },
+    "Chile": {
+        "flag_design": "A horizontal bicolor of white and red with the blue square ended on the upper hoist-side corner of the white band bearing the white five-pointed star in the center.",
+        "country_names": [
+            "Chile"
+        ]
+    },
+    "Guyana": {
+        "flag_design": "A green field with the black-edged red isosceles triangle based on the hoist-side superimposed on the larger white-edged golden triangle, also based on the hoist-side, pointed toward the fly-side.",
+        "country_names": [
+            "Guyana"
+        ]
+    },
+    "Libya": {
+        "flag_design": "A horizontal triband of red, black (double width) and green; charged with a white crescent and five-pointed star centred on the black stripe.",
+        "country_names": [
+            "Libya"
+        ]
+    },
+    "Liechtenstein": {
+        "flag_design": "Horizontal bicolour of blue and red; charged with a gold crown in the canton",
+        "country_names": [
+            "Liechtenstein"
+        ]
+    },
+    "Syria": {
+        "flag_design": "A horizontal tricolour  of red, white, and black; charged with two green stars at the centre.",
+        "country_names": [
+            "Syria"
+        ]
+    },
+    "Somaliland": {
+        "flag_design": "A horizontal tricolor of green, white which means the peace achieved after the war, and red Which stands for the blood that had to be spilled for independence, with the ''Shahada'' inscribed in the green stripe, and a black 5-pointed star charged on the white stripe",
+        "country_names": [
+            "Somaliland"
+        ]
+    },
+    "Cape Verde": {
+        "flag_design": "Five unequal horizontal bands of blue (six-twelfths), white, red, white (each of the bands are one-twelfth) and blue (three-twelfths) with the circle of ten yellow five-pointed stars centered on the red stripe and positioned three-eighths of the length of the flag from the hoist-side.",
+        "country_names": [
+            "Cape Verde"
+        ]
+    },
+    "Laos": {
+        "flag_design": "A horizontal triband of red, blue (double height) and red; charged with a white circle in the centre (the diameter of white circle is four-fifths the height of blue band)",
+        "country_names": [
+            "Laos"
+        ]
+    },
+    "Abkhazia": {
+        "flag_design": "Seven horizontal stripes alternating green and white; in the canton, a white open hand below a semicircle of seven five-pointed stars on a red field.",
+        "country_names": [
+            "Abkhazia"
+        ]
+    },
+    "Switzerland": {
+        "flag_design": "A red square with a white cross in the centre",
+        "country_names": [
+            "Switzerland"
+        ]
+    },
+    "Equatorial Guinea": {
+        "flag_design": "A horizontal tricolor of green, white and red with a blue isosceles triangle based on the hoist side and the National Coat of arms of Equatorial Guinea centered in the white band.",
+        "country_names": [
+            "Equatorial Guinea"
+        ]
+    },
+    "Georgia": {
+        "flag_design": "White rectangle, with in its central portion a large red cross that extends to the edge of the flag. In the four corners there are four ''Bolnur-Katskhuri'' crosses of the same color.<ref>Decree of the President of Georgia\nNo. 32 of 25 January 2004.</ref>",
+        "country_names": [
+            "Georgia"
+        ]
+    },
+    "Rwanda": {
+        "flag_design": "A horizontal tricolour of blue (double width), yellow and green; charged with a sun-yellow sun in the upper-fly side corner",
+        "country_names": [
+            "Rwanda"
+        ]
+    },
+    "Afghanistan": {
+        "flag_design": "Three vertical bands of black, red and green with the National Emblem in white centered on the red band and then slightly overlapping the bands.",
+        "country_names": [
+            "Afghanistan"
+        ]
+    },
+    "Lithuania": {
+        "flag_design": "A horizontal triband of yellow, green and red.",
+        "country_names": [
+            "Lithuania"
+        ]
+    },
+    "Luxembourg": {
+        "flag_design": "A horizontal triband of red, white and light blue",
+        "country_names": [
+            "Luxembourg"
+        ]
+    },
+    "Togo": {
+        "flag_design": "Five equal horizontal bands of green (top and bottom) alternating with yellow; with a red canton bearing a white five-pointed star",
+        "country_names": [
+            "Togo"
+        ]
+    },
+    "Iraq": {
+        "flag_design": "A horizontal tricolour of red, white, and black, charged with the takbir in green Kufic script, centered on the white stripe.",
+        "country_names": [
+            "Iraq"
+        ]
+    },
+    "Turkish Republic of Northern Cyprus": {
+        "flag_design": "A red star and crescent slightly to the left of the center between two horizontal red bars on a white field.",
+        "country_names": [
+            "Turkish Republic of Northern Cyprus"
+        ]
+    },
+    "Mongolia": {
+        "flag_design": "A vertical triband of red (hoist-side and fly-side) and blue with the Soyombo symbol centred on the hoist-side of the red band.",
+        "country_names": [
+            "Mongolia"
+        ]
+    },
+    "Venezuela": {
+        "flag_design": "A horizontal tricolor of yellow, blue and red with the National Coat of Arms on the upper hoist-side of the yellow band and an arc of eight white five-pointed stars centered on the blue band.",
+        "country_names": [
+            "Venezuela"
+        ]
+    },
+    "Central African Republic": {
+        "flag_design": "Four horizontal stripes of blue, white, green and yellow; one vertical stripe of red; with a yellow five pointed star in the upper left.",
+        "country_names": [
+            "Central African Republic"
+        ]
+    },
+    "Madagascar": {
+        "flag_design": "Two horizontal bands of red and green with a white vertical band on the hoist side",
+        "country_names": [
+            "Madagascar"
+        ]
+    },
+    "Argentina": {
+        "flag_design": "A horizontal triband of light blue (top and bottom) and white with the Sun of May centered on the white band.",
+        "country_names": [
+            "Argentina"
+        ]
+    },
+    "Denmark": {
+        "flag_design": "A red field charged with a white cross extending to the edges; the vertical part of the cross is shifted to the hoist side. Dimensions: 3:1:3 width / 3:1:4.5 to 3:1:5.25 length.",
+        "country_names": [
+            "Denmark"
+        ]
+    },
+    "Portugal": {
+        "flag_design": "A 2:3 vertically striped bicolour of green and red, with the lesser coat of arms of Portugal centred over the colour boundary",
+        "country_names": [
+            "Portugal"
+        ]
+    },
+    "Artsakh": {
+        "flag_design": "A horizontal tricolor of red, blue, and orange with a white sideways zig-zag chevron in the fly",
+        "country_names": [
+            "Artsakh"
+        ]
+    },
+    "Pakistan": {
+        "flag_design": "A white star and crescent on a dark green field, with a vertical white stripe at the hoist",
+        "country_names": [
+            "Pakistan"
+        ]
+    },
+    "Suriname": {
+        "flag_design": "A horizontal triband of green (top and bottom) and red (double width) with large white border with the large yellow five-pointed star centered on the red band.",
+        "country_names": [
+            "Suriname"
+        ]
+    },
+    "Brazil": {
+        "flag_design": "A green field with the large yellow diamond (rhombus) in the center bearing the blue disk, which is formed the celestial globe, depicted the starry sky of twenty-seven small white five-pointed stars spanned by the white equatorial curved band with the National Motto: \"''ORDEM E PROGRESSO''\" (Portuguese for \"ORDER AND PROGRESS\"), written in green.",
+        "country_names": [
+            "Brazil"
+        ]
+    },
+    "Saudi Arabia": {
+        "flag_design": "A green field with the Shahada or Muslim creed written in the Thuluth script in white above a horizontal saber, in which the tip was pointed to the hoist-side in the center.",
+        "country_names": [
+            "Saudi Arabia"
+        ]
+    },
+    "Poland": {
+        "flag_design": "A horizontal bicolour of white and red",
+        "country_names": [
+            "Poland"
+        ]
+    },
+    "Comoros": {
+        "flag_design": "Four horizontal stripes of yellow, white, red and blue (from top to bottom); with a green chevron based on the hoist side charged with a white crescent and four five-pointed stars",
+        "country_names": [
+            "Comoros"
+        ]
+    },
+    "Barbados": {
+        "flag_design": "A vertical triband of ultramarine (hoist-side and fly-side) and gold with the black trident-head centred on the gold band.",
+        "country_names": [
+            "Barbados"
+        ]
+    },
+    "Tuvalu": {
+        "flag_design": "A Light Blue Ensign with the Map of the Island of nine yellow five-pointed stars on the outer half of the flag.",
+        "country_names": [
+            "Tuvalu"
+        ]
+    },
+    "Cameroon": {
+        "flag_design": "A vertical tricolor of green, red and yellow, with a yellow star centered on the red band.",
+        "country_names": [
+            "Cameroon"
+        ]
+    },
+    "Bhutan": {
+        "flag_design": "Divided diagonally from the lower hoist-side corner to the upper fly-side corner; the upper triangle is yellow and the lower triangle is orange, with a white dragon called the Druk (the Thunder Dragon) holding four jewels (''norbu'') in its claws centered along the dividing line and facing away from the hoist<ref name='btportalflag'/>",
+        "country_names": [
+            "Bhutan"
+        ]
+    },
+    "Botswana": {
+        "flag_design": "A light blue field cut horizontally in the centre by a black stripe with a thin white frame.",
+        "country_names": [
+            "Botswana"
+        ]
+    },
+    "State of Palestine": {
+        "flag_design": "A horizontal tricolour of black, white, and green; with a red triangle based at the hoist",
+        "country_names": [
+            "State of Palestine"
+        ]
+    },
+    "Liberia": {
+        "flag_design": "Eleven horizontal stripes alternating red and white; in the canton, a white star on a blue field",
+        "country_names": [
+            "Liberia"
+        ]
+    },
+    "Iran": {
+        "flag_design": "A horizontal tricolor of green, white and red with the National Emblem in red centred on the white band and the Takbir written in the Kufic script in white, repeated 11 times along the bottom edge of the green band and 11 times along the top edge of the red band, for a total of 22 times on the fringe of the bands.",
+        "country_names": [
+            "Iran"
+        ]
+    },
+    "Mauritania": {
+        "flag_design": "Two red stripes flanking a green field; charged with a golden upward-pointed crescent and star",
+        "country_names": [
+            "Mauritania"
+        ]
+    },
+    "Saint Lucia": {
+        "flag_design": "A light blue field with the small golden triangle behind the large white-edged black isosceles triangle in the centre.",
+        "country_names": [
+            "Saint Lucia"
+        ]
+    },
+    "Gambia": {
+        "flag_design": "A horizontal tricolor of red, blue and green; each band of colour is separated by a narrow band of white",
+        "country_names": [
+            "Gambia"
+        ]
+    },
+    "Turkmenistan": {
+        "flag_design": "A green field with a vertical red stripe near the hoist side, containing five carpet guls stacked above two crossed olive branches; a white waxing crescent moon and five white five-pointed stars appear in the upper field, to the  fly side of the red stripe",
+        "country_names": [
+            "Turkmenistan"
+        ]
+    },
+    "Zimbabwe": {
+        "flag_design": "seven horizontal stripes of green, yellow, red, black, red, yellow and green with a black-edged white isosceles triangle base on the hoist side bearing a Zimbabwe bird superimposed on a red five-pointed star.",
+        "country_names": [
+            "Zimbabwe"
+        ]
+    },
+    "Monaco": {
+        "flag_design": "two equal horizontal bands, red (top) and white (bottom)",
+        "country_names": [
+            "Monaco"
+        ]
+    },
+    "Senegal": {
+        "flag_design": "A vertical tricolour of green, yellow and red; charged with a green five-pointed star at the centre.",
+        "country_names": [
+            "Senegal"
+        ]
+    },
+    "Jordan": {
+        "flag_design": "A horizontal triband of black, white and green; with a red chevron based on the hoist side containing a white seven-pointed star",
+        "country_names": [
+            "Jordan"
+        ]
+    },
+    "Russia": {
+        "flag_design": "A horizontal tricolour of white, blue and red",
+        "country_names": [
+            "Russia"
+        ]
+    }
+}

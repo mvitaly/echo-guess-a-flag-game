@@ -1,0 +1,23 @@
+welcome: |
+  Welcome to Fun with flags.
+  You can ask me about a flag, for example: What is the flag of Brazil ?
+  Or we can play some flag trivia, I'm going to say a description of a flag and you will have to guess the country it represents.
+  You can say: start the game.
+country_not_found: |
+  Couldn't find flag for country: {{country}}.
+  Try asking about another country.
+flag_country_description: The flag of {{country}} can be described as {{flag_design}}.
+not_started: |
+  To start you can say: start the game.
+flag_description: The flag can be described as {{flag_design}}.
+flag_choices: |
+  Is it {% for choice in choices -%}
+          {%- if not loop.first -%}
+            {%- if not loop.last %}, {% else %} or {% endif -%}
+          {%- endif -%}
+          {{choice}}
+        {%- endfor -%} ?
+flag_open: Which country does it represent ?
+lets_start: Let's start.
+win: Good job! Here's another one.
+lose: Sorry, that's the wrong answer. Let's continue.
