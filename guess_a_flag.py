@@ -98,11 +98,15 @@ def cancel():
 def flag_description(country):
 	logger.info("Flag for country: " + str(country))
 	
-	found_country = next(
-		(country_code for country_code, flag_data in FLAGS_DATA.items()
-			if any(country_name.lower() == country.lower() for country_name in flag_data['country_names'])),
-		None
-		)
+	if country is not None:
+		found_country = next(
+			(country_code for country_code, flag_data in FLAGS_DATA.items()
+				if any(country_name.lower() == country.lower() for country_name in flag_data['country_names'])),
+			None
+			)
+	else:
+		found_country = None
+		country = ''
 
 	if found_country is None:
 		country_not_found_msg = render_template('country_not_found', country=country)
@@ -110,7 +114,7 @@ def flag_description(country):
 	
 	flag_design = FLAGS_DATA[found_country]['flag_design']
 	flag_country_description_msg = render_template('flag_country_description', country=country, flag_design=flag_design)
-	return question(flag_country_description_msg)
+	return statement(flag_country_description_msg)
 
 
 @ask.intent("StartChoicesGameIntent")
@@ -160,6 +164,9 @@ def answer(guess):
         not_started_msg = render_template('not_started')
         return question(not_started_msg)
 
+	if guess is None:
+		return repeat()
+	
     country_names = FLAGS_DATA[country_code]['country_names']
     correct_guess = any(country_name.lower() == guess.lower() for country_name in country_names)
 
