@@ -78,7 +78,14 @@ class GameType(Enum):
 def launch():
     logger.info("New game")
     welcome_msg = render_template('welcome')
-    return question(welcome_msg)
+    help_msg = render_template('help')
+    return question('{} {}'.format(welcome_msg, help_msg))
+
+
+@ask.intent('AMAZON.HelpIntent')
+def help():
+	help_msg = render_template('help')
+	return question(help_msg)
 
 
 @ask.intent('AMAZON.CancelIntent')
